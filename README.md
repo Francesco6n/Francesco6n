@@ -14,11 +14,11 @@ I'm also a mechanic and have fully restored my BMW E36 in my garage. I have a th
 For my E36, I built a control unit for the convertible top based on a 12V Siemens Logo.
 
 ## What are your goals?
-To make everything simpler. 
+**To make everything simpler**. 
 I am a person who belongs to the autism spectrum, and the world, for us, is really too complicated. 
 When I write my codes or create my projects, they have only one goal: to work well and be simple. 
 
-Simple does not mean empty. 
+**Simple does not mean empty**. 
 
 When I first wrote a code for palletizing management in 2019, it turned out to be very complex. 
 Indexed registers copied to other indexed registers, calculations upon calculations to determine the position of objects on the pallet, and coordinates for the clearances. 
@@ -27,18 +27,19 @@ All of this is not simple in itself but is simple in its use. In fact, you just 
 It is not a simple code, but it is simple to use.
 
 ## Any interesting facts about you?
-I am very interested in psychology and practice introspection every day. 
+**I am very interested in psychology**. 
+I practice introspection every day. 
 Managing and recognizing one's emotions is fundamental in life, and as a schematic person, it is also very difficult. 
 I have read hundreds of books and have been in therapy for a long time. 
 I am not ashamed of it and encourage all my acquaintances to embark on a journey of self-discovery.
 
-I hate social networks. 
+**I hate social networks**. 
 I am deeply convinced that social networks have ruined humanity and continue to do so. 
 In my mind, a society can only function if divided into smaller communities, each with its strengths and weaknesses. 
 Every community is a world unto itself. But social networks have united everyone, for better or worse, and this is causing a lot of harm. 
 Universe 25 teaches us a lot about this story.
 
-I love progress but hate education. 
+**I love progress but hate education**. 
 In the past, humans invented many useful things for humanity, tools and services that could help everyone in daily life. 
 Just think of Nikola Tesla, who, on his own, invented the 21st century. 
 This growth process stopped when we started to know "everything" about the world. 
@@ -51,4 +52,4 @@ And so on..
 
 If Nikola Tesla lived today, he would not have learned anything because we are always taught that everything works well as it is. 
 They put us to sleep.
-Ignorance creates inventiveness; education creates a poverty of ideas.
+**Ignorance creates inventiveness; education creates a poverty of ideas**.
