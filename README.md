@@ -2,7 +2,7 @@
 ## What do you do for a living?
 In my professional life, I work in industrial automation. 
 I am a PLC programmer and currently program in ST, LADDER, SFC, C, and C++.
-I also program Fanuc robots and, in general, I am capable of programming anything.
+I also program Fanuc robots and, in general, I am capable of programming everything.
 I am an electrical designer and use Elettracad for drafting electrical schematics. In the past, I have also used Eplan.
 Recently, I started designing and building small machines with Fusion360.
 
